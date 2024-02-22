@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microservices
     username: root
-    password: dharmi2910
+    password: abc2910
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
